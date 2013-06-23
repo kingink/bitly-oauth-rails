@@ -19,7 +19,7 @@ development:
   encoding: unicode
   database: bitly-oauth-rails-example_development
   pool: 5
-  username: bitly-oauth-rails-example
+  username: kfir
   password:
 
   # Connect on a TCP socket. Omitted by default since the client uses a
